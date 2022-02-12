@@ -1,3 +1,4 @@
 # hello-world
 First repository
-I am learning about github
+I am interested in analytics
+I am learning SQL
